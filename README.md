@@ -2,6 +2,8 @@
 
 This is a simple reproduction to illustrate an apparent error using Storybook with TypeScript and React.
 
+Storybook issue: https://github.com/storybookjs/storybook/issues/17589
+
 ## Installation
 
 1. `git clone git@github.com:davidcalhoun/storybook-react-typescript-repro.git && cd storybook-react-typescript-repro`
